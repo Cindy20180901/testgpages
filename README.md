@@ -1,17 +1,19 @@
 # testgpages
-<<<<<<< HEAD
 hhhhh
 
-oooohutkjnkjkjljlkj
-=======
-*This text will be italic*
-_This will also be italic_
+This is my first github page
 
-**This text will be bold**
-__This will also be bold__
+title: The Case of the Italian Olives
+---
 
-_You **can** combine them_
+This is the home page
 
+## Lets have fun
 
-:sleeping:
->>>>>>> 75a17fcd0f0abbd133958172e66655f98e066f3c
+>here is a quote
+
+Here is *emph* and **bold**.
+
+Here is some inline math $\alpha = \frac{\beta}{\gamma}$ and, of-course, E rules:
+
+$$ G_{\mu\nu} + \Lambda g_{\mu\nu}  = 8 \pi T_{\mu\nu} . $
