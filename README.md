@@ -1,19 +1,14 @@
 # testgpages
-hhhhh
 
 This is my first github page
 
-title: The Case of the Italian Olives
+title: Atm
 ---
 
 This is the home page
 
-## Lets have fun
+## This is my first github page
 
 >here is a quote
 
 Here is *emph* and **bold**.
-
-Here is some inline math $\alpha = \frac{\beta}{\gamma}$ and, of-course, E rules:
-
-$$ G_{\mu\nu} + \Lambda g_{\mu\nu}  = 8 \pi T_{\mu\nu} . $
