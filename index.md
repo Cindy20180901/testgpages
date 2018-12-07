@@ -25,7 +25,7 @@ title: The Case of the Italian Olives
   <body>
     <nav>
         <a href="/testgpages/">Support Vector Olives</a>
-                              &nbsp;|&nbsp;<a href="/testgpages/olives-eda.html">EDA</a>
+                              &nbsp;|&nbsp;<a href="/testgpages/model_part.md">EDA</a>
                               &nbsp;|&nbsp;<a href="/testgpages/olives-model.html">Models</a>
 
 
