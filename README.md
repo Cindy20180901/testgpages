@@ -11,4 +11,3 @@ This is the home page
 
 >here is a quote
 
-Here is *emph* and **bold**.
