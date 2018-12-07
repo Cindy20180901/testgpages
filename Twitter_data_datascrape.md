@@ -1,7 +1,7 @@
 ---
 title: look at results
 notebook: Twitter_data_datascrape.ipynb
-nav_include: 3
+nav_include: 1
 ---
 
 ## Contents
